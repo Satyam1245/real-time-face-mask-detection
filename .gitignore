@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+
+# NumPy generated files
+*.npy
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
